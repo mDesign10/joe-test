@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+    <restriction android:key="debugMode" android:title="debugMode" android:restrictionType="string"/>
+    <restriction android:key="qaMode" android:title="qaMode" android:restrictionType="string"/>
+    <restriction android:key="appIdentifier" android:title="appIdentifier" android:restrictionType="string"/>
+    <restriction android:key="xmppUrl" android:title="xmppUrl" android:restrictionType="string"/>
+    <restriction android:key="xmppDomain" android:title="xmppDomain" android:restrictionType="string"/>
+    <restriction android:key="xmppRoom" android:title="xmppRoom" android:restrictionType="string"/>
+    <restriction android:key="xmppBotJid" android:title="xmppBotJid" android:restrictionType="string"/>
+    <restriction android:key="xmppBotTimeout" android:title="xmppBotTimeout" android:restrictionType="string"/>
+    <restriction android:key="xmppMucHost" android:title="xmppMucHost" android:restrictionType="string"/>
+    <restriction android:key="xmppPingInterval" android:title="xmppPingInterval" android:restrictionType="string"/>
+    <restriction android:key="xmppPingTimeout" android:title="xmppPingTimeout" android:restrictionType="string"/>
+    <restriction android:key="xmppMaxMessageAge" android:title="xmppMaxMessageAge" android:restrictionType="string"/>
+    <restriction android:key="incidentExpiration" android:title="incidentExpiration" android:restrictionType="string"/>
+    <restriction android:key="adLoginSpn" android:title="adLoginSpn" android:restrictionType="string"/>
+    <restriction android:key="adTokenPlaceholder" android:title="adTokenPlaceholder" android:restrictionType="string"/>
+    <restriction android:key="RELEASE_DEBUGGING" android:title="RELEASE_DEBUGGING" android:restrictionType="string"/>
+</restrictions>

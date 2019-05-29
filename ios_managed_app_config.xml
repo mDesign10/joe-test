@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<managedAppConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/com.mobileiron.onetouch/appconfig/appconfig.xsd">
+    <version>0.2.23</version>
+    <bundleId>net.hscni.belfasttrust.ct.trauma.reportingconsole</bundleId>
+    <dict>
+        <string keyName="debugMode"/>
+        <string keyName="qaMode"/>
+        <string keyName="appIdentifier"/>
+        <string keyName="xmppUrl"/>
+        <string keyName="xmppDomain"/>
+        <string keyName="xmppRoom"/>
+        <string keyName="xmppBotJid"/>
+        <string keyName="xmppBotTimeout"/>
+        <string keyName="xmppMucHost"/>
+        <string keyName="xmppPingInterval"/>
+        <string keyName="xmppPingTimeout"/>
+        <string keyName="xmppMaxMessageAge"/>
+        <string keyName="incidentExpiration"/>
+        <string keyName="adLoginSpn"/>
+        <string keyName="adTokenPlaceholder"/>
+        <string keyName="RELEASE_DEBUGGING"/>
+    </dict>
+</managedAppConfiguration>
